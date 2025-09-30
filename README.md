@@ -4,35 +4,35 @@ A powerful AI-driven goal planning and task management application that helps yo
 
 ## Features
 
-### 🤖 AI-Powered Planning
+### AI-Powered Planning
 - **Goal Analysis**: AI analyzes your goals for complexity, required skills, and potential obstacles
 - **Smart Task Generation**: Automatically generates daily tasks based on your goals and context
 - **RAG Integration**: Uses your uploaded documents for personalized task recommendations
 - **Progress Insights**: AI-generated insights and recommendations for goal achievement
 
-### 🌍 Multilingual Support
+### Multilingual Support
 - **11+ Languages**: English, Spanish, French, German, Italian, Portuguese, Chinese, Japanese, Korean, Hindi, Arabic
 - **Auto-Translation**: Automatic translation of goals, tasks, and AI responses
 - **Language Detection**: Smart detection of input language
 - **Localized UI**: Interface elements translated to your preferred language
 
-### 📊 Comprehensive Dashboard
+### Comprehensive Dashboard
 - **Progress Tracking**: Visual charts showing goal and task completion
 - **Analytics**: Detailed statistics and trends
 - **Calendar View**: Visual timeline of your tasks and deadlines
 - **Activity Feed**: Recent activity and achievements
 
-### 🔐 Secure Authentication
+### Secure Authentication
 - **User Authentication**: Secure login/signup with Supabase Auth
 - **Data Persistence**: All your data is saved and synced across devices
 - **Privacy**: Your personal data is protected with row-level security
 
-### 📱 Modern Interface
+### Modern Interface
 - **Responsive Design**: Works on desktop, tablet, and mobile
 - **Intuitive UI**: Clean, user-friendly interface built with Streamlit
 - **Real-time Updates**: Instant updates across all components
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -155,7 +155,7 @@ SUPPORTED_LANGUAGES=en,es,fr,de,it,pt,zh,ja,ko,hi,ar
    - RLS policies are included in the schema
    - Users can only access their own data
 
-## 📋 Usage Guide
+## Usage Guide
 
 ### Getting Started
 
@@ -200,7 +200,7 @@ SUPPORTED_LANGUAGES=en,es,fr,de,it,pt,zh,ja,ko,hi,ar
 3. **Mixed Languages**: Enter content in any language
 4. **Language Detection**: System detects and handles multiple languages
 
-## 🏗️ Architecture
+## Architecture
 
 ### System Components
 
